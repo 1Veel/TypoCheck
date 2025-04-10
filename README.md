@@ -1,4 +1,4 @@
-GitHub Comprehensive Typo Scanner
+**GitHub Comprehensive Typo Scanner**
 
 A Python-based desktop GUI application that scans all your accessible GitHub repositories for typos in documentation and text-based files. Designed with developers in mind, it intelligently ignores programming-related terms while checking for spelling mistakes.
 🚀 Features
