@@ -1,0 +1,3 @@
+PyQt5>=5.15
+PyGithub>=1.59
+pyspellchecker>=0.7.0
